@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is **Rodion**
+#### I am a head of development, DS and python developer.
+![I am a head of development, DS and python developer.](https://wmpics.pics/di-HI4K.gif)
 
-<!--
-**Rodion-ch/Rodion-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion for improving business processes through analysis and modeling, with unquenchable enthusiasm I get to the bottom of the issue and enjoy it.
+I easily infect others with ideas and motivate to achieve the goal.
+In my free time I am engaged in advanced training, once or twice a week I play drums in a rock band, sometimes on weekends I play beach volleyball with my wife.
 
-Here are some ideas to get you started:
+Skills: Python / Unittest / Airflow / Flask / SQL / Forcasting / AB-tests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://bushe.ru 
+- 💬 Ask me about my DS path 
+- 📫 How to reach me: https://t.me/rodion_ch 
+- ⚡ Fun fact: https://t.me/my_datascience 
