@@ -1,5 +1,5 @@
-### Hi there 👋, my name is **Rodion**
-#### I am a head of development, DS and python developer.
+## Hi there 👋, my name is **Rodion**
+### I am a head of development, DS and python developer.
 ![I am a head of development, DS and python developer.](https://wmpics.pics/di-HI4K.gif)
 
 I have a passion for improving business processes through analysis and modeling, with unquenchable enthusiasm I get to the bottom of the issue and enjoy it.
