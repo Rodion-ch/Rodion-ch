@@ -8,7 +8,7 @@ I have a passion for improving business processes through analysis and modeling.
 Skills: Python / Unittest / Airflow / Flask / SQL / Forcasting / AB-tests
 
 
-- 🔭 I am currently working at garage-eight (https://garage-eight.com/)
+<!-- - 🔭 I am currently working at garage-eight (https://garage-eight.com/) -->
 - 💬 Ask me about my path in DS 
 - 📫 How to reach me: https://t.me/rodion_ch 
 - ⚡ Fun fact: https://t.me/my_datascience 
